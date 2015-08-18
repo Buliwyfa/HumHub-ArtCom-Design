@@ -13,6 +13,12 @@ The rest of the whole design should be based on the HumHub original design.
 We would be happy if You contibute to the design and get it working. 
 A lot of the project is already done.
 
+Join our discussion group at:
+-----------------------------
+
+You can register a account at: http://palareas.de 
+Join our HumHub developer group: http://goo.gl/RB9rNr
+
 Thank You for Your interest ;)
 
 About HumHub
