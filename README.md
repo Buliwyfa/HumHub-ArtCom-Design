@@ -8,7 +8,7 @@ The design should only be a enterpage with working login and registration forms 
 
 Our design does have a responsive (html5 based) video background with a image fallback. It also got a H1, H2 and H3 for the logo and basic informations about Your community.
 
-The rest of the whole design is based on the HumHub original design.
+The rest of the whole design should be based on the HumHub original design.
 
 We would be happy if You contibute to the design and get it working. 
 A lot of the project is already done.
